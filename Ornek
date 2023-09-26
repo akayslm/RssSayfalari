@@ -1,12 +1,12 @@
-Ajanslar
+# Ajanslar
 
 Anadolu Ajansı (AA) - http://www.aa.com.tr/tr/rss/default?cat=guncel
 Doğan Haber Ajansı (DHA) - http://www.dha.com.tr/rss.asp
 İhlas Haber Ajansı (İHA) - http://www.iha.com.tr/rss.aspx
 Kafkas Haber Ajansı (KHA) - http://www.kha.com.tr/rss.php
 
-Ulusal gazeteler
-Genel
+# Ulusal gazeteler
+## Genel
 Akşam Gazetesi - http://www.aksam.com.tr/cache/rss.xml
 Anayurt Gazetesi - http://www.anayurtgazetesi.com/sondakika.xml
 Aydınlık Gazetesi - http://www.aydinlikgazete.com/rss
@@ -36,12 +36,13 @@ Yeni Mesaj Gazetesi - http://www.yenimesaj.com.tr/rss.php
 Yeni Şafak Gazetesi - http://yenisafak.com.tr/Rss
 Yurt Gazetesi - http://www.yurtgazetesi.com.tr/rss.php
 Zaman Gazetesi - http://www.zaman.com.tr/sondakika.rss
-Tematik
-Spor
+
+## Tematik
+### Spor
 Amk Spor Gazetesi - http://amkspor.com/feed
 Fotomaç - http://www.fotomac.com.tr/rss/anasayfa.xml
 Fotospor - http://feeds.feedburner.com/fotospor/feed
-Televizyonlar
+## Televizyonlar
 A Haber Televizyonu - http://www.ahaber.com.tr/rss/AnaSayfa.xml
 Artı Bir TV - http://www.haberartibir.com.tr/rss.php
 Bloomberg HT - http://www.bloomberght.com/rss
@@ -55,7 +56,7 @@ TGRT Haber - http://www.tgrthaber.com.tr/feed/index.rss
 TRT Haber - http://www.trthaber.com/sondakika.rss
 TV 5 - http://www.tv5haber.com/rss.php
 Ulusal Kanal - http://www.ulusalkanal.com.tr/rss.php
-Web siteleri
+## Web siteleri
 Açık Gazete - http://www.acikgazete.com/feed
 Ajans Haber - http://www.ajanshaber.com/rss
 Aktif Haber - http://www.aktifhaber.com/rss
